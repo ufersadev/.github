@@ -11,7 +11,7 @@ O conteúdo deste repositório é aplicado globalmente a todos os outros reposit
 - **`CODE_OF_CONDUCT.md`**  
   Arquivo com o código de conduta da organização, definindo diretrizes para um ambiente de respeito e colaboração.
 
-- **`CONTRIBUTING.md`**  
+- **[CONTRIBUTING.md](./CONTRIBUTING.md)**  
   Guia para contribuir com os projetos da organização, com informações sobre como abrir issues, fazer pull requests e seguir as boas práticas.
 
 - **`ISSUE_TEMPLATE/`**  
@@ -30,7 +30,7 @@ O conteúdo deste repositório é aplicado globalmente a todos os outros reposit
    Siga os padrões definidos neste repositório ao contribuir com qualquer projeto da UFERSADEV.
 
 2. **Para Novos Contribuidores:**  
-   Leia os arquivos `CONTRIBUTING.md` e `CODE_OF_CONDUCT.md` para entender como colaborar e as regras da comunidade.
+   Leia os arquivos [CONTRIBUTING.md](./CONTRIBUTING.md) e `CODE_OF_CONDUCT.md` para entender como colaborar e as regras da comunidade.
 
 ---
 
